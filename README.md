@@ -1,4 +1,4 @@
-# HarranUniversityProgrammingTask
+# UniversityProgrammingTask
 
 This program is designed to store information about disaster victims and their help requests. It allows the user to add, update, and delete victims, as well as add help requests associated with the victims. The program has a menu system that guides the user through the different operations.
 
